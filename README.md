@@ -5,4 +5,4 @@ google slide link:
 
 1. https://docs.google.com/presentation/d/1rKqTq-TDEP7kCK51qjMme42I8FgTh8Xihi0o2Zqhr0Q/edit?slide=id.h734512f4e3cb50f_0_0#slide=id.h734512f4e3cb50f_0_0
 
-2.https://docs.google.com/presentation/d/1N7_QJrRWnOo6EI3nR7XuYNGSKO7N4OxNITo8eOoE6Uk/edit?slide=id.p#slide=id.p
+2. https://docs.google.com/presentation/d/1N7_QJrRWnOo6EI3nR7XuYNGSKO7N4OxNITo8eOoE6Uk/edit?slide=id.p#slide=id.p
